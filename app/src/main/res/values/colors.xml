@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+
+    <color name="colorDarkGrey">#424345</color>
+
+    <color name="text_view_cart_hintLine2">#AEADB3</color>
+    <color name="colorLightGrey">#F0EFF5</color>
+    <color name="colorBlack">#353535</color>
+
+
+    <color name="color_facebookbtn">#1F60A1</color>
+    <color name="color_grey">#D9D9DB</color>
+
+    <color name="white">#ffffff</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <color name="white2">#ffffff</color>
+    <color name="place_order_red">#bb271c</color>
+    <color name="green_colcor">#5D984D</color>
+    <color name="black">#191919</color>
+    <color name="titleBackground">#D9D9DB</color>
+    <color name="colorTitleGrey">#AEADB3</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorGrey">#bdbdbd</color>
+    <color name="colorLineGrey">#D9D9DB</color>
+    <color name="tablecolor">#DCDCDC</color>
+    <color name="colorMaroon">#9E2E22</color>
+</resources>
